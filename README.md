@@ -154,3 +154,13 @@ Why CORS error happens only in browser?
 Can CDN cause CORS issues?
 Why React is called a library?
 What does React.createElement return?
+
+
+lec-2 
+HW
+1. learn setting up github SSH on the system (although our. git is public)
+
+Igniting the App - how to make react app as prod ready app
+npm !== node package manager (on official npm site) npm manages packages nut it doesn't stand for node package manager --- basically a standard library for managing the packages
+npm init (it'll ask ques,,,, answer them and it'll gonna create an app and you can see the info in package.json)
+package.json is the cofig file for the npm
