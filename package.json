@@ -2,6 +2,7 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "namaste react by akshay saini",
+  
   "homepage": "https://github.com/deepanshu1narang/namaste-react#readme",
   "bugs": {
     "url": "https://github.com/deepanshu1narang/namaste-react/issues"
@@ -14,13 +15,15 @@
   "author": "Deepanshu Narang",
   "type": "module",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html" 
   },
   "devDependencies": {
     "parcel": "^2.16.4"
   },
   "dependencies": {
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
   }
 }
